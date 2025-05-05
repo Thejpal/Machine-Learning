@@ -1,2 +1,4 @@
 nltk
 jupyter
+numpy
+svgling
